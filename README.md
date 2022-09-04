@@ -1,6 +1,6 @@
 # StoryBook
 
-This is my first time to use Storybook library, I've made a very simple project here which contains only two components, a button component and a stack component, this project is merely meant for reference purposes, so that I can refer back to it when I forget something or I need to refresh my memory after a long time not using it.
+This is my first time to use Storybook library, I've made a very simple project which contains only two components, a button component and a stack component, this project is merely meant for reference purposes, so that I can refer back to it when I forget something or I need to refresh my memory after a long time not using it.
 
 ## Tech I used
 
